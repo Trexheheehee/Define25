@@ -16,10 +16,10 @@ The official template repository for Define 3.0
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Full Name] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Gokul S] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Athul CS] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Thirumoolar C] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Athul] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
 
 ## Project Details
 
