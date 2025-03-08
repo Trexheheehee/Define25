@@ -6,20 +6,20 @@ The official template repository for Define 3.0
 
 
 
-# < Project Name >
+# < SUSTAIL >
  Cover Image  If applicable
 
 ### Team Information
-- **Team Name**: <Team Newbies reincarnated> 
+- **Team Name**: <Team Newbies reincarnated > 
 - **Track**: < Track AI in airline >
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| [Gokul S] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Athul CS] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Thirumoolar C] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
-| [Athul] | [Role] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Gokul S] | [Frontend] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Athulya CS] | [frontend] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Thirumoolar C] | [backend] | [@username](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
+| [Athul] | [Role] | [backend](https://github.com/username) | [Profile](https://linkedin.com/in/username) |
 
 ## Project Details
 
