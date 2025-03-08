@@ -10,8 +10,8 @@ The official template repository for Define 3.0
  Cover Image  If applicable
 
 ### Team Information
-- **Team Name**: <Team Name> 
-- **Track**: < Track >
+- **Team Name**: <Team Newbies reincarnated> 
+- **Track**: < Track AI in airline >
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
