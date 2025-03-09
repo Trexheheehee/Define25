@@ -50,8 +50,8 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 ## Technical Implementation
 
 ### Technologies Used
-- **Frontend**: [Technologies]
-- **Backend**: [Technologies]
+- **Frontend**: streamlit
+- **Backend**: 
 - **Database**: [Technologies]
 - **APIs**: [Technologies]
 - **DevOps**: [Technologies]
