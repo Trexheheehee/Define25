@@ -58,21 +58,26 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 - **Other Tools**: [Technologies]
 
 ### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
+Dynamic Conflict Resolution: Real-time detection and resolution of scheduling conflicts.
+
+Reinforcement Learning Optimization: Efficient flight assignments using RL to minimize delays and costs.
+
+PCA for Data Processing: Dimensionality reduction for faster, accurate decision-making.
+
+Automated Rescheduling: Adjusts flight schedules automatically to resolve disruptions.
+
+Scalability: Adapts to varying airport sizes and operational demands.
+
+User-Friendly Dashboard: Centralized interface for monitoring and insights.
+
+System Integration: Seamlessly works with existing airport management systems.
+
+Predictive Analytics: Proactively predicts and prevents potential conflicts.
 
 ## Setup Instructions
 
 ### Prerequisites
-Dynamic Conflict Resolution: Real-time detection and resolution of scheduling conflicts.
-Reinforcement Learning Optimization: Efficient flight assignments using RL to minimize delays and costs.
-PCA for Data Processing: Dimensionality reduction for faster, accurate decision-making.
-Automated Rescheduling: Adjusts flight schedules automatically to resolve disruptions.
-Scalability: Adapts to varying airport sizes and operational demands.
-User-Friendly Dashboard: Centralized interface for monitoring and insights.
-System Integration: Seamlessly works with existing airport management systems.
-Predictive Analytics: Proactively predicts and prevents potential conflicts.
+
 
 ### Installation 
 ```bash
