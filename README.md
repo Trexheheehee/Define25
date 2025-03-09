@@ -89,12 +89,13 @@ Predictive Analytics: Proactively predicts and prevents potential conflicts.
 
 ### Installation 
 ```bash
+pip install streamlit pandas numpy
 
 ```
 
 ### Running the Project
 ```bash
-
+streamlit run app.py
 ```
 
 ## Additional Resources
