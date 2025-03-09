@@ -49,13 +49,14 @@ _Replace VIDEO_ID with your YouTube video ID or provide an alternative demo link
 
 ## Technical Implementation
 
-### Technologies Used
-- **Frontend**: streamlit
-- **Backend**: 
-- **Database**: [Technologies]
-- **APIs**: [Technologies]
-- **DevOps**: [Technologies]
-- **Other Tools**: [Technologies]
+Programming Language: Python
+Frontend: Streamlit
+Backend: Flask,python
+Machine Learning: Q-Learning (Reinforcement Learning)
+Data Handling: Pandas, NumPy
+Time Management: Datetime, Timedelta
+Deployment: Streamlit Cloud / Local Execution
+Logging & Debugging: Warnings, Traceback
 
 ### Key Features
 Dynamic Conflict Resolution: Real-time detection and resolution of scheduling conflicts.
